@@ -1,0 +1,15 @@
+# Created at 2022-07-04T12:08:13.193
+WARNING: An illegal reflective access operation has occurred
+
+# Created at 2022-07-04T12:08:13.218
+WARNING: Illegal reflective access by net.thucydides.core.steps.StepInterceptor (file:/C:/Users/calcantv/.m2/repository/net/serenity-bdd/serenity-core/2.4.51/serenity-core-2.4.51.jar) to field java.lang.reflect.Method.root
+
+# Created at 2022-07-04T12:08:13.270
+WARNING: Please consider reporting this to the maintainers of net.thucydides.core.steps.StepInterceptor
+
+# Created at 2022-07-04T12:08:13.279
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+
+# Created at 2022-07-04T12:08:13.287
+WARNING: All illegal access operations will be denied in a future release
+

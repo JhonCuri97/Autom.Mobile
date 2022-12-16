@@ -1,0 +1,6 @@
+com\nttdata\screens\LoginScreen.class
+com\nttdata\steps\AirbnbSearchSteps.class
+com\nttdata\stepsdefinitions\AirbnbSearchStepsDefs.class
+com\nttdata\runners\CucumberTestSuite.class
+com\nttdata\screens\SearchDetailsScreen.class
+com\nttdata\screens\SearchScreen.class
